@@ -144,7 +144,7 @@ def generate_question(state: InterviewState):
     return {"messages": [question]}
 
 # Search query writing
-search_instructions = SystemMessage(content=f"""You will be given a conversation between an analyst and an expert. 
+search_instructions = SystemMessage(content="""You will be given a conversation between an analyst and an expert. 
 
 Your goal is to generate a well-structured query for use in retrieval and / or web-search related to the conversation.
         
@@ -442,7 +442,7 @@ def write_report(state: ResearchGraphState):
     
     # Summarize the sections into a final report
     system_message = report_writer_instructions.format(topic=topic, context=formatted_str_sections)    
-    report = llm.invoke([SystemMessage(content=system_message)]+[HumanMessage(content=f"Write a report based upon these memos.")]) 
+    report = llm.invoke([SystemMessage(content=system_message)]+[HumanMessage(content="Write a report based upon these memos.")]) 
     return {"content": report.content}
 
 # Write the introduction or conclusion
@@ -482,7 +482,7 @@ def write_introduction(state: ResearchGraphState):
     # Summarize the sections into a final report
     
     instructions = intro_conclusion_instructions.format(topic=topic, formatted_str_sections=formatted_str_sections)    
-    intro = llm.invoke([instructions]+[HumanMessage(content=f"Write the report introduction")]) 
+    intro = llm.invoke([instructions]+[HumanMessage(content="Write the report introduction")]) 
     return {"introduction": intro.content}
 
 def write_conclusion(state: ResearchGraphState):
@@ -499,7 +499,7 @@ def write_conclusion(state: ResearchGraphState):
     # Summarize the sections into a final report
     
     instructions = intro_conclusion_instructions.format(topic=topic, formatted_str_sections=formatted_str_sections)    
-    conclusion = llm.invoke([instructions]+[HumanMessage(content=f"Write the report conclusion")]) 
+    conclusion = llm.invoke([instructions]+[HumanMessage(content="Write the report conclusion")]) 
     return {"conclusion": conclusion.content}
 
 def finalize_report(state: ResearchGraphState):

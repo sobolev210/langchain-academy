@@ -1,0 +1,144 @@
+Below is a general-purpose privacy policy template you can adapt for your mobile app. Replace bracketed text (e.g., [APP NAME], [COMPANY NAME], [CONTACT EMAIL], [COUNTRY]) with your app’s specifics, add or remove clauses for features you do or do not use (analytics, ads, social login, payments, location, health data, etc.), and have an attorney review it for legal compliance with the laws that apply to your users (GDPR, CCPA, COPPA, ePrivacy, etc.).
+
+Privacy Policy for [APP NAME]
+
+Effective date: [DATE]
+
+1. Introduction
+[COMPANY NAME] (“we”, “us”, or “our”) provides the [APP NAME] mobile application (the “App”). This Privacy Policy explains what personal information we collect, how we use it, with whom we share it, your choices, and how to contact us. By using the App you agree to the collection and use of information as described in this policy.
+
+2. Controller / Contact Information
+Controller: [COMPANY NAME], [LEGAL ENTITY TYPE] registered in [COUNTRY/STATE].
+Contact: [CONTACT EMAIL], [CONTACT MAILING ADDRESS], [CONTACT PHONE (optional)]
+
+3. Information We Collect
+We may collect the following categories of information:
+
+- Information you provide directly:
+  - Account registration: name, email address, phone number, username, password.
+  - Profile data: avatar/photo, bio, preferences.
+  - Communications: messages, support requests, feedback.
+  - Payment details: billing address and payment method processed by third-party payment processors (we do not store full card data unless you use a processor that stores it).
+  - Content you upload: photos, files, text.
+
+- Information collected automatically:
+  - Device data: device model, OS version, unique identifiers (IDFA/AAID, device ID), app version.
+  - Usage data: pages/screens viewed, features used, crash logs, performance metrics.
+  - Log data: IP address, device time zone, language, referrer.
+  - Location: precise or approximate location when you grant permission.
+  - Analytics and diagnostic data: collected by third-party analytics providers.
+
+- Information from third parties:
+  - Social login info (e.g., Facebook, Google) if you use it.
+  - Payment/merchant processors, advertising networks, partners.
+
+- Aggregated / de-identified data:
+  - Non-identifying analytics and aggregated usage statistics.
+
+4. How We Collect Information
+- Directly from you when you register, fill forms, make purchases, or contact support.
+- Automatically via the App and associated services using cookies, mobile SDKs, and analytics tools.
+- From third parties (social providers, advertising networks, service providers).
+
+5. Purposes for Using Information
+We use information to:
+- Provide, maintain, and improve the App and related services.
+- Create and manage your account.
+- Process payments and fulfill purchases.
+- Personalize your experience and provide content and recommendations.
+- Send administrative, transactional, and promotional communications (with your consent for marketing).
+- Provide push notifications (and allow opt-out via device settings).
+- Monitor and analyze usage and performance, troubleshoot issues.
+- Prevent fraud and abuse; enforce terms.
+- Comply with legal obligations.
+
+6. Legal Bases for EU/EEA Users (where applicable)
+If you are in the EU/EEA, our legal bases include:
+- Performance of a contract (to provide the App and services).
+- Consent (for marketing, analytics beyond necessary, location if required).
+- Legitimate interests (improving the App, fraud prevention) balanced against your rights.
+- Legal obligations.
+
+7. Sharing and Disclosure
+We may share information with:
+- Service providers and vendors who perform services (hosting, analytics, payment processing, crash reporting, push notifications).
+- Affiliates and subsidiaries.
+- Business partners (if you choose to share or connect accounts).
+- Law enforcement, government authorities, or third parties where required by law or to protect rights.
+- Successors in connection with a business transfer, acquisition, merger or bankruptcy.
+- Advertisers and ad networks, subject to your choices and applicable law.
+
+8. Third-Party Services & SDKs
+The App may use third-party SDKs and services (e.g., analytics, crash reporting, ads, social login). These third parties collect and use information according to their own policies. List the specific SDKs/services you use here: [e.g., Google Firebase, Google Analytics, Facebook SDK, AdMob, Stripe].
+
+9. Advertising and Analytics
+We and our partners may use collected information to serve targeted ads and measure ad performance. To opt out of targeted advertising, follow the instructions for your device or use the opt-out tools described here: [link to opt-out instructions]. If you want certain analytics to be disabled, include steps or links.
+
+10. Location Data
+If you enable location services, we may collect precise or approximate location to provide location-based features. You can disable location collection in your device settings.
+
+11. Push Notifications
+We use push notifications for account messages, updates, and marketing (with your consent). You can opt out in the app settings or through your device’s notification settings.
+
+12. Data Retention
+We keep your personal data as long as necessary to provide the service, comply with legal obligations, resolve disputes, enforce agreements, and meet needs described above. Specific retention periods: [e.g., account data retained until you delete your account; analytics retained for X months].
+
+13. Security
+We implement reasonable technical and organizational measures to protect personal information (encryption in transit, access controls). No method is 100% secure; we cannot guarantee absolute security.
+
+14. International Transfers
+Data may be transferred to and processed in countries other than your country. We will take steps to ensure transfers comply with applicable laws (standard contractual clauses, adequacy decisions, etc.). Country list (if needed): [LIST COUNTRIES OR “various countries including...”].
+
+15. Your Rights (where applicable)
+Depending on jurisdiction, you may have rights including:
+- Access to the data we hold about you.
+- Correct or update inaccurate data.
+- Request deletion (right to be forgotten).
+- Portability of your data.
+- Restrict or object to processing.
+- Withdraw consent at any time.
+- Opt out of sale of personal information (where applicable).
+To exercise these rights, contact us at [CONTACT EMAIL]. We may require verification before fulfilling requests.
+
+16. California/CCPA Specifics (if you serve California residents)
+- Categories we collect: [list categories corresponding to Section 3].
+- Categories of sources: [list].
+- Categories of recipients: [list].
+- Right to access, delete, and opt out of sale of personal information.
+- To submit requests: [CONTACT EMAIL or link to web form].
+- We do not discriminate for exercising CCPA rights.
+
+17. Children’s Privacy
+The App is not directed to children under [AGE, e.g., 13/16]. We do not knowingly collect personal information from children under [AGE]. If you believe we have collected such data, contact us to request deletion.
+
+18. Links to Other Sites
+The App may contain links to third-party websites. We are not responsible for their privacy practices. Review such third parties’ privacy policies.
+
+19. Changes to This Policy
+We may update this Privacy Policy. We will post the new policy with an updated effective date and, where required, notify you (in-app or via email). Continued use after changes constitutes acceptance.
+
+20. How to Contact Us
+If you have questions, complaints, or requests about this Privacy Policy or your data:
+Email: [CONTACT EMAIL]
+Mail: [CONTACT ADDRESS]
+Phone: [CONTACT PHONE (optional)]
+DPO (if applicable): [NAME/CONTACT INFO]
+
+Optional: How to delete your account or data
+To delete your account or request deletion of personal data: [instructions — e.g., in-app settings > Account > Delete Account; or email [CONTACT EMAIL] with subject “Data Deletion Request” and include account details].
+
+End of Policy
+
+Checklist for customizing this template
+- Replace all [BRACKETED] text with your details.
+- Add specific third-party services and SDKs you use.
+- Specify retention periods for different data categories.
+- State any automated decision-making or profiling if used.
+- Include consent collection mechanisms (in-app permissions, opt-ins).
+- Add links to opt-out tools (analytics/ad networks).
+- Add local-specific clauses (GDPR, CCPA, COPPA) as required.
+- Have a lawyer review for compliance with laws where your users live.
+
+Note: This template is for informational purposes and does not constitute legal advice. You should consult legal counsel to ensure full compliance with applicable privacy and data protection laws.
+
+If you tell me which features your app uses (social login providers, analytics services, ad networks, payments, precise location, health data, target regions/countries), I can customize the template with the specific wording and SDK list.

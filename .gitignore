@@ -219,3 +219,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+
+# LangGraph API temporary files
+.langgraph_api/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal

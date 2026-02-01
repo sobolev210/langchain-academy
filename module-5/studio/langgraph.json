@@ -4,7 +4,8 @@
       "chatbot_memory": "./memory_store.py:graph",
       "chatbot_memory_profile": "./memoryschema_profile.py:graph",
       "chatbot_memory_collection": "./memoryschema_collection.py:graph",
-      "memory_agent": "./memory_agent.py:graph"
+      "memory_agent": "./memory_agent.py:graph",
+      "ml_opportunities_researcher_with_memory": "./ml_opportunities_researcher_with_memory.py:graph"
     },
     "env": "./.env",
     "python_version": "3.11",
